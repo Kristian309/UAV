@@ -1,4 +1,4 @@
-{"homepage": "https://kristian309.github.io/UAV_TACK",
+bun run build{"homepage": "https://kristian309.github.io/UAV_TACK",
   "name": "tanstack_start_ts",
   "private": true,
   "sideEffects": false,

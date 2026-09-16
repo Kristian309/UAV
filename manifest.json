@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "UAV_TACK",
+  "orientation": "any",
+  "scope": "/UAV/",
+  "short_name": "UAV",
+  "start_url": "/UAV/",
+  "theme_color": "#ffffff"
+}
